@@ -1,0 +1,24 @@
+{
+  "name": "dictionary",
+  "version": "0.0.1",
+  "description": "simple dictionary using oxford-dictionary-api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "oxford-dictionary-api": "^1.0.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/AbdullatifJamous891"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express"
+  ]
+}
